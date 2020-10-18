@@ -15,8 +15,23 @@
 
 一些教學：
 
-[![水質感測器相關性分析](http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg)](https://www.youtube.com/watch?v=MwXoQpuR7X0 "水質感測器相關性分析")
+<table>
+<tr>
+<td style="width:50%"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg"></a></td>
+<td style="width:50%;vertical-align:top;">水質感測器相關性分析</td>
+</tr>
+</table>
 
-[![讀取濕地資料](http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg)](https://www.youtube.com/watch?v=PnDzBsHBbLc "讀取濕地資料")
+<table>
+<tr>
+<td style="width:50%"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg"></a></td>
+<td style="width:50%;vertical-align:top;">讀取濕地資料</td>
+</tr>
+</table>
 
-[![讀取濕地物種資料](http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg)](https://youtu.be/8z7yM4ErRJQ  "讀取濕地物種資料")
+<table>
+<tr>
+<td style="width:50%"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg"></a></td>
+<td style="width:50%;vertical-align:top;">讀取濕地物種資料</td>
+</tr>
+</table>
