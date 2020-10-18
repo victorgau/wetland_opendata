@@ -15,28 +15,10 @@
 
 一些教學：
 
-<style>
-table {
-    width:100%;
-}
-
-table tr td {
-    vertical-align:top;
-}
-
-table tr td.youtube {
-    width:320px;
-}
-
-img {
-    width:300px;
-}
-</style>
-
 <table>
 <tr>
-<td class="youtube"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg"></a></td>
-<td>水質感測器相關性分析</td>
+<td class="youtube"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" width="240px"></a></td>
+<td valign="top">水質感測器相關性分析</td>
 </tr>
 </table>
 
