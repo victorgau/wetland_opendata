@@ -15,23 +15,41 @@
 
 一些教學：
 
-<table style="display: table">
+<style>
+table {
+    width:100%;
+}
+
+table tr td {
+    vertical-align:top;
+}
+
+table tr td.youtube {
+    width:320px;
+}
+
+img {
+    width:300px;
+}
+</style>
+
+<table>
 <tr>
-<td style="width:320px"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" style="width:300px"></a></td>
-<td style="vertical-align:top;width:640px">水質感測器相關性分析</td>
+<td class="youtube"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg"></a></td>
+<td>水質感測器相關性分析</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width:320px"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg" style="width:300px"></a></td>
-<td style="vertical-align:top;width:640px">讀取濕地資料</td>
+<td class="youtube"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg"></a></td>
+<td style="vertical-align:top;">讀取濕地資料</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width:320px"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg" style="width:300px"></a></td>
-<td style="vertical-align:top;width:640px">讀取濕地物種資料</td>
+<td class="youtube"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg"></a></td>
+<td style="vertical-align:top;">讀取濕地物種資料</td>
 </tr>
 </table>
