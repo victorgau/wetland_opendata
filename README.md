@@ -17,21 +17,21 @@
 
 <table>
 <tr>
-<td class="youtube"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" width="240px"></a></td>
-<td valign="top">水質感測器相關性分析</td>
+<td class="youtube" width="250px"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">水質感測器相關性分析</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td class="youtube"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg"></a></td>
-<td style="vertical-align:top;">讀取濕地資料</td>
+<td class="youtube" width="250px"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">讀取濕地資料</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td class="youtube"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg"></a></td>
-<td style="vertical-align:top;">讀取濕地物種資料</td>
+<td class="youtube" width="250px"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">讀取濕地物種資料</td>
 </tr>
 </table>
