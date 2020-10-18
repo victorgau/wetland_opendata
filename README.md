@@ -15,7 +15,7 @@
 
 一些教學：
 
-<table>
+<table style="display: table">
 <tr>
 <td style="width:320px"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" style="width:300px"></a></td>
 <td style="vertical-align:top;width:640px">水質感測器相關性分析</td>
