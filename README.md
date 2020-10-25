@@ -48,6 +48,17 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 
 <table>
 <tr>
+<td class="youtube" width="250px"><a href="https://youtu.be/lLh2988i1g8"><img src="http://img.youtube.com/vi/lLh2988i1g8/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">
+<h3>在地圖上標出濕地位置</h3>
+
+簡單說明如何使用folium在地圖上標出濕地的位置。
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td class="youtube" width="250px"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>讀取濕地物種資料</h3>
