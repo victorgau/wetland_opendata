@@ -1,6 +1,6 @@
 # 濕地開放資料平台
 
-> 這個平台是準備用來存放我們在茄萣濕地上蒐集的一些資料，我們計畫將資料開放出來做研究的用途。
+> 這個平台是準備用來存放我們在茄萣濕地上蒐集的一些資料，我們計畫將資料開放出來做研究的用途。不過，目前感測器尚未佈署上濕地，所以數據尚未推上GitHub。
 
 > 另外，我們也錄製了一些資料分析的教學，幫助大家上手簡單的資料分析。
 
@@ -12,8 +12,16 @@
 
 * [國家重要濕地保育計畫](https://wetland-tw.tcd.gov.tw/tw/index.php)
 * [濕地環境資料庫](https://wetland-db.tcd.gov.tw/)
+* [交通部中央氣象局](https://www.cwb.gov.tw/V8/C/)
 
 一些教學：
+
+底下教學的程式語言以Python為主。
+
+folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖並在地圖上標中文，請使用github上面修正後的版本。
+```python
+!pip install git+https://github.com/python-visualization/branca.git@master
+```
 
 <table>
 <tr>
