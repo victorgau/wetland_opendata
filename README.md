@@ -88,3 +88,17 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 </td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td class="youtube" width="250px"><a href="https://youtu.be/ivnA2b7fSGY"><img src="http://img.youtube.com/vi/ivnA2b7fSGY/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">
+<h3>讀取中央氣象局資料</h3>
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E8%AE%80%E5%8F%96%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E5%B1%80%E8%B3%87%E6%96%99.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
+中央氣象局的<a href="https://opendata.cwb.gov.tw/index">氣象資料開放平台</a>的使用範例。
+
+</td>
+</tr>
+</table>
