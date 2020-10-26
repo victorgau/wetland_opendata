@@ -29,7 +29,7 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 <td class="youtube" width="250px"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>水質感測器相關性分析</h3>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/wetland_opendata/ipynb/水質感測器相關性分析.ipynb)
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/ipynb/水質感測器相關性分析.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 說明如何利用<a href="https://ksenlab.ksepb.gov.tw/wq/Default.aspx">河川水質連續自動監測站</a>的水質監測資料，簡單的觀察感測器的相關性。
 </td>
