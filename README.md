@@ -14,6 +14,7 @@
 * [國家重要濕地保育計畫](https://wetland-tw.tcd.gov.tw/tw/index.php)
 * [濕地環境資料庫](https://wetland-db.tcd.gov.tw/)
 * [交通部中央氣象局](https://www.cwb.gov.tw/V8/C/)
+* [氣象資料開放平台](https://opendata.cwb.gov.tw/index)
 
 ## 資料分析教學：
 
