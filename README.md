@@ -29,7 +29,7 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 <td class="youtube" width="250px"><a href="https://www.youtube.com/watch?v=MwXoQpuR7X0"><img src="http://img.youtube.com/vi/MwXoQpuR7X0/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>水質感測器相關性分析</h3>
-<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/ipynb/水質感測器相關性分析.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E6%B0%B4%E8%B3%AA%E6%84%9F%E6%B8%AC%E5%99%A8%E7%9B%B8%E9%97%9C%E6%80%A7%E5%88%86%E6%9E%90.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 說明如何利用<a href="https://ksenlab.ksepb.gov.tw/wq/Default.aspx">河川水質連續自動監測站</a>的水質監測資料，簡單的觀察感測器的相關性。
 </td>
@@ -41,6 +41,7 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 <td class="youtube" width="250px"><a href="https://www.youtube.com/watch?v=PnDzBsHBbLc"><img src="http://img.youtube.com/vi/PnDzBsHBbLc/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>讀取濕地資料</h3>
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E8%AE%80%E5%8F%96%E6%BF%95%E5%9C%B0%E8%B3%87%E6%96%99.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 簡單說明如何從<a href="https://wetland-db.tcd.gov.tw/">濕地環境資料庫</a>中讀取台灣的濕地資料。
 </td>
@@ -52,7 +53,7 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 <td class="youtube" width="250px"><a href="https://youtu.be/lLh2988i1g8"><img src="http://img.youtube.com/vi/lLh2988i1g8/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>在地圖上標出濕地位置</h3>
-
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E5%9C%A8%E5%9C%B0%E5%9C%96%E4%B8%8A%E6%A8%99%E5%87%BA%E6%BF%95%E5%9C%B0%E7%9A%84%E4%BD%8D%E7%BD%AE.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 簡單說明如何使用folium在地圖上標出濕地的位置。
 </td>
@@ -64,6 +65,7 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 <td class="youtube" width="250px"><a href="https://youtu.be/8z7yM4ErRJQ"><img src="http://img.youtube.com/vi/8z7yM4ErRJQ/0.jpg" width="240px"></a></td>
 <td valign="top" width="400px">
 <h3>讀取濕地物種資料</h3>
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E8%AE%80%E5%8F%96%E6%BF%95%E5%9C%B0%E7%89%A9%E7%A8%AE%E8%B3%87%E6%96%99.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 <a href="https://wetland-db.tcd.gov.tw/">濕地環境資料庫</a>的<a href="https://wetland-db.tcd.gov.tw/#/wetlandAPIPage">介接服務</a>使用教學。
 
