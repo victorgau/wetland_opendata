@@ -17,6 +17,8 @@
 
 ## 資料分析教學：
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/wetland_opendata/)
+
 底下教學的程式語言以Python為主。
 
 folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖並在地圖上標中文，請使用github上面修正後的版本。
