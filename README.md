@@ -72,3 +72,16 @@ folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖�
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td class="youtube" width="250px"><a href="https://youtu.be/f1FpGgvxlPE"><img src="http://img.youtube.com/vi/f1FpGgvxlPE/0.jpg" width="240px"></a></td>
+<td valign="top" width="400px">
+<h3>讀取濕地水質資料</h3>
+<a href="https://colab.research.google.com/github/victorgau/wetland_opendata/blob/master/ipynb/%E8%AE%80%E5%8F%96%E6%BF%95%E5%9C%B0%E6%B0%B4%E8%B3%AA%E8%B3%87%E6%96%99.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
+<a href="https://wetland-db.tcd.gov.tw/">濕地環境資料庫</a>的<a href="https://wetland-db.tcd.gov.tw/#/wetlandAPIPage">介接服務</a>使用教學。
+
+</td>
+</tr>
+</table>
