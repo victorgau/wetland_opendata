@@ -4,6 +4,10 @@
 
 > 另外，我們也錄製了一些資料分析的教學，幫助大家上手簡單的資料分析。
 
+計畫緣起：
+
+* [為什麼有這個平台？](why.md)
+
 資料整理：
 
 * [台灣濕地GPS座標](wetlands.csv)
@@ -21,6 +25,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/wetland_opendata/)
 
 底下教學的程式語言以Python為主。
+
+如果對學習Python有興趣，可以參考我們先前錄製的免費課程：[Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
 
 folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖並在地圖上標中文，請使用github上面修正後的版本。
 ```python
