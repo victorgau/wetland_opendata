@@ -26,9 +26,9 @@
 
 底下教學的程式語言以Python為主。
 
-如果對學習Python有興趣，可以參考我們先前錄製的免費課程：[Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
+如果對學習Python有興趣，可以參考我們的免費課程：[Python快速入門](https://khpy.teachable.com/p/simple-python-applications)。
 
-folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖並在地圖上標中文，請使用github上面修正後的版本。
+folium是python繪製地圖的套件。folium最新版本的中文顯示會出現亂碼，如果要用folium畫地圖並在地圖上標中文，請使用github上面修正後的版本。
 ```python
 !pip install git+https://github.com/python-visualization/branca.git@master
 ```
